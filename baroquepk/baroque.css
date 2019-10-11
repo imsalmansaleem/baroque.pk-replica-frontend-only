@@ -1,0 +1,31 @@
+	.navbar{
+		min-height: 100px;
+		border-bottom: 1px solid #E5E7E9;
+	}
+	.row2{
+		background-color: #E5E7E9;
+		
+	}
+	.top{
+		background-color: black;
+		color: white;
+		height: 50px;
+	}
+	footer{
+		border-top: 1px solid #E5E7E9;
+	}
+	#log{
+		width: 150px;
+		height: 40px;
+		margin-left: 10px;
+	}
+	.navbar-toggler {
+        position: absolute;
+  		top: 20px;
+  		left: 5vw;
+	}
+
+
+
+	
+
